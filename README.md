@@ -1,0 +1,2 @@
+# noisy-natural-markup-parser
+Humans tend to prepare documents with their own ad-hoc schema, which structures the information in the document. As an example, people will frequently use a combination of white space and symbols to denote importance, titles, or the relationship between text. You can consider this as a sort of noisy natural markup (NNM). Extracting that structure can help with document analysis. So, the purpose of this code base is to extract the underlying scheme of the NNM and convert it to another markup language (such as XML and HTML)
